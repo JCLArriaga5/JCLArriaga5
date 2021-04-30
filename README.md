@@ -2,5 +2,4 @@
 
 ![Twitter](https://img.shields.io/twitter/url?label=%40JCLArriaga_&style=social&url=https%3A%2F%2Ftwitter.com%2FJCLArriaga_)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCLArriaga5&show_icons=true&theme=dark)
-
+<img src="images/JCLA-8bits.png" height="160"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCLArriaga5&show_icons=true&theme=dark)
