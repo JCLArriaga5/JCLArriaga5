@@ -6,10 +6,4 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JCLArriaga5&show_icons=true&theme=dark)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCLArriaga5&layout=compact&theme=dark)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=JCLArriaga5&theme=dark)
